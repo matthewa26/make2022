@@ -1,6 +1,8 @@
 # MakeOHI/O 2022
 
-This is a repository of code written during MakeOHI/O 2022.
+This is a repository of code written during [MakeOHI/O 2022](https://hack.osu.edu/make/2022), a makeathon hosted by the OHI/O Informal Learning Program at The Ohio State University.
+
+*This code is not indicative of how I typically structure code, as numerous code smells exist and I worked on every aspect of my project from start to finish within the 24-hour period allotted.*
 
 This project utilized an Arduino Uno 3 board and an ESP8266 Wi-Fi board for the purpose of controlling a light array through an online interface. After working through how to control the light array using buttons, I modified the circuit to turn the ESP8266 module into a glorified button in the form of a web server. 
 
